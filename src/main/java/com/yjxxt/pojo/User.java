@@ -3,8 +3,7 @@ package com.yjxxt.pojo;
 import java.util.Objects;
 
 /**
- * @author : guojing
- * @date : 17:57 2022/8/15
+ *用户类
  */
 public class User {
     // 主键
